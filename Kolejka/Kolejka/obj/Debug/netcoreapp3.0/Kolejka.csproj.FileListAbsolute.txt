@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\Programowanie\#AIDS\Kolejka\Kolejka\bin\Debug\netcoreapp3.0\Kolejka.exe
+C:\Users\Dell\Desktop\Programowanie\#AIDS\Kolejka\Kolejka\bin\Debug\netcoreapp3.0\Kolejka.deps.json
+C:\Users\Dell\Desktop\Programowanie\#AIDS\Kolejka\Kolejka\bin\Debug\netcoreapp3.0\Kolejka.runtimeconfig.json
+C:\Users\Dell\Desktop\Programowanie\#AIDS\Kolejka\Kolejka\bin\Debug\netcoreapp3.0\Kolejka.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Programowanie\#AIDS\Kolejka\Kolejka\bin\Debug\netcoreapp3.0\Kolejka.dll
+C:\Users\Dell\Desktop\Programowanie\#AIDS\Kolejka\Kolejka\bin\Debug\netcoreapp3.0\Kolejka.pdb
+C:\Users\Dell\Desktop\Programowanie\#AIDS\Kolejka\Kolejka\obj\Debug\netcoreapp3.0\Kolejka.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Programowanie\#AIDS\Kolejka\Kolejka\obj\Debug\netcoreapp3.0\Kolejka.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Programowanie\#AIDS\Kolejka\Kolejka\obj\Debug\netcoreapp3.0\Kolejka.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Programowanie\#AIDS\Kolejka\Kolejka\obj\Debug\netcoreapp3.0\Kolejka.dll
+C:\Users\Dell\Desktop\Programowanie\#AIDS\Kolejka\Kolejka\obj\Debug\netcoreapp3.0\Kolejka.pdb
