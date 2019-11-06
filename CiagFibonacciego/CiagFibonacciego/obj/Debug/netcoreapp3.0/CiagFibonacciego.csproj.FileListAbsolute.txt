@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\Programowanie\#AIDS\CiagFibonacciego\CiagFibonacciego\bin\Debug\netcoreapp3.0\CiagFibonacciego.exe
+C:\Users\Dell\Desktop\Programowanie\#AIDS\CiagFibonacciego\CiagFibonacciego\bin\Debug\netcoreapp3.0\CiagFibonacciego.deps.json
+C:\Users\Dell\Desktop\Programowanie\#AIDS\CiagFibonacciego\CiagFibonacciego\bin\Debug\netcoreapp3.0\CiagFibonacciego.runtimeconfig.json
+C:\Users\Dell\Desktop\Programowanie\#AIDS\CiagFibonacciego\CiagFibonacciego\bin\Debug\netcoreapp3.0\CiagFibonacciego.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Programowanie\#AIDS\CiagFibonacciego\CiagFibonacciego\bin\Debug\netcoreapp3.0\CiagFibonacciego.dll
+C:\Users\Dell\Desktop\Programowanie\#AIDS\CiagFibonacciego\CiagFibonacciego\bin\Debug\netcoreapp3.0\CiagFibonacciego.pdb
+C:\Users\Dell\Desktop\Programowanie\#AIDS\CiagFibonacciego\CiagFibonacciego\obj\Debug\netcoreapp3.0\CiagFibonacciego.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Programowanie\#AIDS\CiagFibonacciego\CiagFibonacciego\obj\Debug\netcoreapp3.0\CiagFibonacciego.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Programowanie\#AIDS\CiagFibonacciego\CiagFibonacciego\obj\Debug\netcoreapp3.0\CiagFibonacciego.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Programowanie\#AIDS\CiagFibonacciego\CiagFibonacciego\obj\Debug\netcoreapp3.0\CiagFibonacciego.dll
+C:\Users\Dell\Desktop\Programowanie\#AIDS\CiagFibonacciego\CiagFibonacciego\obj\Debug\netcoreapp3.0\CiagFibonacciego.pdb
