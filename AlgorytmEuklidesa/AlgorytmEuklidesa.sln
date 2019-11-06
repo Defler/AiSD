@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorytmEuklidesa", "AlgorytmEuklidesa\AlgorytmEuklidesa.csproj", "{5AC91EEC-865B-47B2-B256-1E43D4FFDB8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AC91EEC-865B-47B2-B256-1E43D4FFDB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC91EEC-865B-47B2-B256-1E43D4FFDB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC91EEC-865B-47B2-B256-1E43D4FFDB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC91EEC-865B-47B2-B256-1E43D4FFDB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {175C01CB-61E5-461A-832C-18A52C50B784}
+	EndGlobalSection
+EndGlobal

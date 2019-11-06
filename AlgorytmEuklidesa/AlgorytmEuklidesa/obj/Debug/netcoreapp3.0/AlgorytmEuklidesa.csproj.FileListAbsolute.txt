@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\Programowanie\#AIDS\AlgorytmEuklidesa\AlgorytmEuklidesa\bin\Debug\netcoreapp3.0\AlgorytmEuklidesa.exe
+C:\Users\Dell\Desktop\Programowanie\#AIDS\AlgorytmEuklidesa\AlgorytmEuklidesa\bin\Debug\netcoreapp3.0\AlgorytmEuklidesa.deps.json
+C:\Users\Dell\Desktop\Programowanie\#AIDS\AlgorytmEuklidesa\AlgorytmEuklidesa\bin\Debug\netcoreapp3.0\AlgorytmEuklidesa.runtimeconfig.json
+C:\Users\Dell\Desktop\Programowanie\#AIDS\AlgorytmEuklidesa\AlgorytmEuklidesa\bin\Debug\netcoreapp3.0\AlgorytmEuklidesa.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Programowanie\#AIDS\AlgorytmEuklidesa\AlgorytmEuklidesa\bin\Debug\netcoreapp3.0\AlgorytmEuklidesa.dll
+C:\Users\Dell\Desktop\Programowanie\#AIDS\AlgorytmEuklidesa\AlgorytmEuklidesa\bin\Debug\netcoreapp3.0\AlgorytmEuklidesa.pdb
+C:\Users\Dell\Desktop\Programowanie\#AIDS\AlgorytmEuklidesa\AlgorytmEuklidesa\obj\Debug\netcoreapp3.0\AlgorytmEuklidesa.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Programowanie\#AIDS\AlgorytmEuklidesa\AlgorytmEuklidesa\obj\Debug\netcoreapp3.0\AlgorytmEuklidesa.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Programowanie\#AIDS\AlgorytmEuklidesa\AlgorytmEuklidesa\obj\Debug\netcoreapp3.0\AlgorytmEuklidesa.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Programowanie\#AIDS\AlgorytmEuklidesa\AlgorytmEuklidesa\obj\Debug\netcoreapp3.0\AlgorytmEuklidesa.dll
+C:\Users\Dell\Desktop\Programowanie\#AIDS\AlgorytmEuklidesa\AlgorytmEuklidesa\obj\Debug\netcoreapp3.0\AlgorytmEuklidesa.pdb
