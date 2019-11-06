@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\Programowanie\#AIDS\SortowanieBabelkowe\SortowanieBabelkowe\bin\Debug\netcoreapp3.0\SortowanieBabelkowe.exe
+C:\Users\Dell\Desktop\Programowanie\#AIDS\SortowanieBabelkowe\SortowanieBabelkowe\bin\Debug\netcoreapp3.0\SortowanieBabelkowe.deps.json
+C:\Users\Dell\Desktop\Programowanie\#AIDS\SortowanieBabelkowe\SortowanieBabelkowe\bin\Debug\netcoreapp3.0\SortowanieBabelkowe.runtimeconfig.json
+C:\Users\Dell\Desktop\Programowanie\#AIDS\SortowanieBabelkowe\SortowanieBabelkowe\bin\Debug\netcoreapp3.0\SortowanieBabelkowe.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Programowanie\#AIDS\SortowanieBabelkowe\SortowanieBabelkowe\bin\Debug\netcoreapp3.0\SortowanieBabelkowe.dll
+C:\Users\Dell\Desktop\Programowanie\#AIDS\SortowanieBabelkowe\SortowanieBabelkowe\bin\Debug\netcoreapp3.0\SortowanieBabelkowe.pdb
+C:\Users\Dell\Desktop\Programowanie\#AIDS\SortowanieBabelkowe\SortowanieBabelkowe\obj\Debug\netcoreapp3.0\SortowanieBabelkowe.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Programowanie\#AIDS\SortowanieBabelkowe\SortowanieBabelkowe\obj\Debug\netcoreapp3.0\SortowanieBabelkowe.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Programowanie\#AIDS\SortowanieBabelkowe\SortowanieBabelkowe\obj\Debug\netcoreapp3.0\SortowanieBabelkowe.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Programowanie\#AIDS\SortowanieBabelkowe\SortowanieBabelkowe\obj\Debug\netcoreapp3.0\SortowanieBabelkowe.dll
+C:\Users\Dell\Desktop\Programowanie\#AIDS\SortowanieBabelkowe\SortowanieBabelkowe\obj\Debug\netcoreapp3.0\SortowanieBabelkowe.pdb
