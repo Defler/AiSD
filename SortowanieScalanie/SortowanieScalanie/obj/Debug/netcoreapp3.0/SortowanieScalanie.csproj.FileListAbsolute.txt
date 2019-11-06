@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\Programowanie\#AIDS\SortowanieScalanie\SortowanieScalanie\bin\Debug\netcoreapp3.0\SortowanieScalanie.exe
+C:\Users\Dell\Desktop\Programowanie\#AIDS\SortowanieScalanie\SortowanieScalanie\bin\Debug\netcoreapp3.0\SortowanieScalanie.deps.json
+C:\Users\Dell\Desktop\Programowanie\#AIDS\SortowanieScalanie\SortowanieScalanie\bin\Debug\netcoreapp3.0\SortowanieScalanie.runtimeconfig.json
+C:\Users\Dell\Desktop\Programowanie\#AIDS\SortowanieScalanie\SortowanieScalanie\bin\Debug\netcoreapp3.0\SortowanieScalanie.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Programowanie\#AIDS\SortowanieScalanie\SortowanieScalanie\bin\Debug\netcoreapp3.0\SortowanieScalanie.dll
+C:\Users\Dell\Desktop\Programowanie\#AIDS\SortowanieScalanie\SortowanieScalanie\bin\Debug\netcoreapp3.0\SortowanieScalanie.pdb
+C:\Users\Dell\Desktop\Programowanie\#AIDS\SortowanieScalanie\SortowanieScalanie\obj\Debug\netcoreapp3.0\SortowanieScalanie.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Programowanie\#AIDS\SortowanieScalanie\SortowanieScalanie\obj\Debug\netcoreapp3.0\SortowanieScalanie.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Programowanie\#AIDS\SortowanieScalanie\SortowanieScalanie\obj\Debug\netcoreapp3.0\SortowanieScalanie.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Programowanie\#AIDS\SortowanieScalanie\SortowanieScalanie\obj\Debug\netcoreapp3.0\SortowanieScalanie.dll
+C:\Users\Dell\Desktop\Programowanie\#AIDS\SortowanieScalanie\SortowanieScalanie\obj\Debug\netcoreapp3.0\SortowanieScalanie.pdb
