@@ -1,0 +1,7 @@
+C:\Users\local\source\repos\Defler\NWP\NWP\bin\Debug\NWP.exe.config
+C:\Users\local\source\repos\Defler\NWP\NWP\bin\Debug\NWP.exe
+C:\Users\local\source\repos\Defler\NWP\NWP\bin\Debug\NWP.pdb
+C:\Users\local\source\repos\Defler\NWP\NWP\obj\Debug\NWP.csprojAssemblyReference.cache
+C:\Users\local\source\repos\Defler\NWP\NWP\obj\Debug\NWP.csproj.CoreCompileInputs.cache
+C:\Users\local\source\repos\Defler\NWP\NWP\obj\Debug\NWP.exe
+C:\Users\local\source\repos\Defler\NWP\NWP\obj\Debug\NWP.pdb
