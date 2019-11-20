@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\Programowanie\#AIDS\NWP\NWP\bin\Debug\netcoreapp3.0\NWP.exe
+C:\Users\Dell\Desktop\Programowanie\#AIDS\NWP\NWP\bin\Debug\netcoreapp3.0\NWP.deps.json
+C:\Users\Dell\Desktop\Programowanie\#AIDS\NWP\NWP\bin\Debug\netcoreapp3.0\NWP.runtimeconfig.json
+C:\Users\Dell\Desktop\Programowanie\#AIDS\NWP\NWP\bin\Debug\netcoreapp3.0\NWP.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Programowanie\#AIDS\NWP\NWP\bin\Debug\netcoreapp3.0\NWP.dll
+C:\Users\Dell\Desktop\Programowanie\#AIDS\NWP\NWP\bin\Debug\netcoreapp3.0\NWP.pdb
+C:\Users\Dell\Desktop\Programowanie\#AIDS\NWP\NWP\obj\Debug\netcoreapp3.0\NWP.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Programowanie\#AIDS\NWP\NWP\obj\Debug\netcoreapp3.0\NWP.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Programowanie\#AIDS\NWP\NWP\obj\Debug\netcoreapp3.0\NWP.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Programowanie\#AIDS\NWP\NWP\obj\Debug\netcoreapp3.0\NWP.dll
+C:\Users\Dell\Desktop\Programowanie\#AIDS\NWP\NWP\obj\Debug\netcoreapp3.0\NWP.pdb
