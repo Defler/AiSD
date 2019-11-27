@@ -1,0 +1,10 @@
+C:\Users\local\source\repos\Defler\PrzeszukiwanieWGlab\PrzeszukiwanieWGlab\bin\Debug\PrzeszukiwanieWGlab.exe.config
+C:\Users\local\source\repos\Defler\PrzeszukiwanieWGlab\PrzeszukiwanieWGlab\bin\Debug\PrzeszukiwanieWGlab.exe
+C:\Users\local\source\repos\Defler\PrzeszukiwanieWGlab\PrzeszukiwanieWGlab\bin\Debug\PrzeszukiwanieWGlab.pdb
+C:\Users\local\source\repos\Defler\PrzeszukiwanieWGlab\PrzeszukiwanieWGlab\obj\Debug\PrzeszukiwanieWGlab.csprojAssemblyReference.cache
+C:\Users\local\source\repos\Defler\PrzeszukiwanieWGlab\PrzeszukiwanieWGlab\obj\Debug\PrzeszukiwanieWGlab.Form1.resources
+C:\Users\local\source\repos\Defler\PrzeszukiwanieWGlab\PrzeszukiwanieWGlab\obj\Debug\PrzeszukiwanieWGlab.Properties.Resources.resources
+C:\Users\local\source\repos\Defler\PrzeszukiwanieWGlab\PrzeszukiwanieWGlab\obj\Debug\PrzeszukiwanieWGlab.csproj.GenerateResource.cache
+C:\Users\local\source\repos\Defler\PrzeszukiwanieWGlab\PrzeszukiwanieWGlab\obj\Debug\PrzeszukiwanieWGlab.csproj.CoreCompileInputs.cache
+C:\Users\local\source\repos\Defler\PrzeszukiwanieWGlab\PrzeszukiwanieWGlab\obj\Debug\PrzeszukiwanieWGlab.exe
+C:\Users\local\source\repos\Defler\PrzeszukiwanieWGlab\PrzeszukiwanieWGlab\obj\Debug\PrzeszukiwanieWGlab.pdb
